@@ -1,4 +1,4 @@
-# 👋 Bienvenue sur le portfolio de Enzo André
+👋 Bienvenue sur le portfolio de Enzo André
 
 En plein réorientation Data Analyst / Freelance, spécialisé en :
 - Reporting et tableaux de bord automatisés  
