@@ -17,6 +17,6 @@ Freelance data analyst, je peux réaliser :
 
 
 N'hésitez pas à me contacter :
-✉️ Mail : e.swainandre@gmail.com
-Linkedin : https://www.linkedin.com/in/enzoandre/
-Téléphone : 0781085392
+- ✉️ Mail : e.swainandre@gmail.com
+- Linkedin : https://www.linkedin.com/in/enzoandre/
+- Téléphone : 0781085392
