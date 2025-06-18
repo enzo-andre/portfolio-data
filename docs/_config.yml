@@ -2,6 +2,6 @@ theme: minima
 title: Mon Portfolio Data
 description: Portfolio de dashboards et rapports automatisés
 
- header_pages:
-   - about.md
-   - projects.md
+header_pages:
+- about.md
+- projects.md
