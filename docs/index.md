@@ -1,3 +1,7 @@
+---
+layout: default
+title: Bienvenue
+---
 
 **👋 Bienvenue sur le portfolio de Enzo André
 
