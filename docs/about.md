@@ -12,11 +12,33 @@ Freelance data analyst, je peux réaliser :
 - Nettoyage de données
 - Tableaux croisés dynamique
 - Analyses corrélatives
-- Mapping 
+- Mapping
 
+---
 
+## 🎓 Mon parcours  
+- **Formation** : Master 2 Marketing & Stratégie Commerciale / Google Data Analytics - Professional Certificate
+- **Expérience** :  
+  - 7 projets personnels sur des datasets publiques : dashboards, rapports automatisés, analyses corrélatives et mapping 
+---
+
+## 🚀 Mes compétences  
+| Domaine            | Outils & techno          |
+| ------------------ | ------------------------ |
+| Data wrangling     | Pandas, NumPy            |
+| Visualisation      | Plotly, Matplotlib       |
+| Automatisation     | Jinja2, pdfkit, argparse |
+| Déploiement web    | GitHub Pages, Streamlit  |
+| Langages           | Python, SQL              |
+
+---
 
 N'hésitez pas à me contacter :
 - ✉️ Mail : e.swainandre@gmail.com
 - Linkedin : https://www.linkedin.com/in/enzoandre/
 - Téléphone : 0781085392
+
+- ---
+
+> **Envie d’en savoir plus ?**  
+> Parcourez mes [projets](projects.md) ou écrivez-moi directement !
