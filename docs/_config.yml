@@ -1,6 +1,7 @@
 theme: minima
-title: Portfolio
-description: Portfolio freelance Enzo André
+title: Portfolio Freelance Data - Enzo André
+description: Disponible pour des missions freelance / collaborations data
+
 
 header_pages:
 - about.md
