@@ -6,15 +6,15 @@ title: ""
 
 En plein réorientation Data Analyst / Freelance, spécialisé en :
 - Reporting et tableaux de bord automatisés  
-- Analyses avant/après campagne marketing  
+- Diagnostic commerciaux / Machine Learning
 - KPIs et visualisations interactives  
 
 ## Projets phares
 
-- [Dashboard commerce/ecommerce] https://github.com/enzo-andre/Dashboard_sales / https://github.com/enzo-andre/Dashboard_sales_ecommerce
-- [Dashboard E-commerce automatisé] https://github.com/enzo-andre/Dashboard_automatise_ecommerce
-- [Rapport marketing avant/après campagne] xxx 
-
+- **Diagnostic Commercial** : https://github.com/enzo-andre/Projet_client_simul-
+- **Prédiction de départ client (churn prediction)** : https://github.com/enzo-andre/Churn_modelisation_telecom
+- **Tablaux de bord ecommerce** : [https://github.com/enzo-andre/Dashboard_sales](https://github.com/enzo-andre/Dashboard_automatise_ecommerce)
+Parcourez mes autres [projets](projects.md) ou écrivez-moi directement !
 
 ## Contact
 
