@@ -14,9 +14,9 @@ En plein réorientation Data Analyst / Freelance, spécialisé en :
 
 ## Projets phares
 
-- **Diagnostic Commercial** : [https://github.com/enzo-andre/Diagnostic_commercial](https://github.com/enzo-andre/Projet_client_simul-)
-- **Prédiction de départ client (churn prediction)** : [https://github.com/enzo-andre/Churn_modelisation_telecom](https://github.com/enzo-andre/Churn_modelisation_telecom)
-- **Tablaux de bord ecommerce** : [https://github.com/enzo-andre/Dashboard_ecommerce](https://github.com/enzo-andre/Dashboard_automatise_ecommerce)
+- [**Diagnostic Commercial**](https://github.com/enzo-andre/Projet_client_simul-)
+- [**Prédiction de départ client (churn prediction)**](https://github.com/enzo-andre/Churn_modelisation_telecom)
+- [**Tablaux de bord ecommerce**](https://github.com/enzo-andre/Dashboard_automatise_ecommerce)
 
 ---
 Parcourez mes autres [projets](projects.md) ou écrivez-moi directement !
@@ -24,5 +24,5 @@ Parcourez mes autres [projets](projects.md) ou écrivez-moi directement !
 ## Contact
 
 - 📧 e.swainandre@gmail.com 
-- 🔗 [LinkedIn] https://www.linkedin.com/in/enzoandre/
+- 🔗 [LinkedIn](https://www.linkedin.com/in/enzoandre/)
   
