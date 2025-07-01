@@ -10,15 +10,16 @@ Freelance data analyst, je peux réaliser :
 - Tableaux de bord  
 - Automatisation
 - Nettoyage de données
-- Tableaux croisés dynamique
 - Analyses corrélatives
 - Mapping
+- Modélisation (Machine Learning)
+- Diagnostic commercial / Data Analyse pour stratégie marketing
 
 ---
 
 ### 🎓 Mon parcours  
 - **Formation** : Master 2 Marketing & Stratégie Commerciale / Google Data Analytics - Professional Certificate
-- **Expérience** : 7 projets personnels sur des datasets publiques : dashboards, rapports automatisés, analyses corrélatives et mapping 
+- **Expérience** : 7 projets personnels sur des datasets publiques : dashboards, rapports automatisés, analyses corrélatives et mapping, modélisation, etc.
 
 ---
 
