@@ -13,5 +13,5 @@ permalink: /projects/
 
 --- 
 
-- *Projet Personnel* [**Analyse des inégalités de genre dans la participation au marché du travail en 2018**](https://github.com/enzo-andre/inegalites-genre-monde
+- *Projet Personnel* [**Analyse des inégalités de genre dans la participation au marché du travail en 2018**](https://github.com/enzo-andre/inegalites-genre-monde)
 - *Projet Personnel* [**PIB, dépenses publiques et scolarisation des filles au 21ème siècle**](https://github.com/enzo-andre/education-gdp-analysis-)
