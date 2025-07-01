@@ -1,7 +1,7 @@
 theme: minima
 title: Portfolio Freelance Data - Enzo André
 description: Disponible pour des missions freelance / collaborations data
-
+color: #f8f9fa
 
 header_pages:
 - about.md
